@@ -1,4 +1,4 @@
 <?php
 	print "hello";
-	$felix = new Cat('Felix');
+	$fido = new Dog('Fido');
 	

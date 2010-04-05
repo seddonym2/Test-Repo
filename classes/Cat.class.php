@@ -4,7 +4,7 @@
 	 * @author david
 	 *
 	 */
-	class Cat {
+	class Dog {
 		
 		public $name;
 		function __construct($name) {
